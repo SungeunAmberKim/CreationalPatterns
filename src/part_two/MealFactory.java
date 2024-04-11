@@ -1,5 +1,4 @@
 package part_two;
-
 import java.util.ArrayList;
 
 public class MealFactory {

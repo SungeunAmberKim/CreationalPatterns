@@ -1,5 +1,4 @@
 package part_two;
-
 import java.util.ArrayList;
 
 public class Customer {
@@ -22,8 +21,5 @@ public class Customer {
             System.out.print(meal.get(i) + " ");
         }
         System.out.println();
-
     }
-
-
 }
